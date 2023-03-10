@@ -1,3 +1,10 @@
+### This fork is only here to fix a bug in using Tkinter
+
+Once a new release is made in the original repo, this 
+fork becomes useless.
+current AIF360 release at time of writing: 0.5.0 
+
+
 # AI Fairness 360 (AIF360)
 
 [![Continuous Integration](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml/badge.svg)](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml)
